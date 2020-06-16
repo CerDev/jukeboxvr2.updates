@@ -1,2 +1,2 @@
 # jukeboxvr.updates
-Serveurs de release l'exécutable jukebox-vr
+Serveurs de mises à jour l'exécutable jukebox-vr
